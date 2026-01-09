@@ -1,2495 +1,4 @@
 {
-    "ECM111": [
-        {
-            "id_ramo": "ECM111",
-            "nombre": "ÁLGEBRA",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "MI",
-                    "D",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "D",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "D",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "JAVIER FIDEL MORENO DONOSO",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECM111",
-            "nombre": "ÁLGEBRA",
-            "seccion": 2,
-            "horarios": [
-                [
-                    "MI",
-                    "F",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "F",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MA",
-                    "C",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "RICARDO ANDRES GARRIDO ACEVEDO",
-            "semestre": ""
-        }
-    ],
-    "EDCP11B": [
-        {
-            "id_ramo": "EDCP11B",
-            "nombre": "COMUNICACIÓN ESCRITA (BIMESTRE 2)",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "LU",
-                    "C",
-                    "CÁTEDRA"
-                ],
-                [
-                    "LU",
-                    "D",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "DIEGO FRANCISCO VARGAS DUHART",
-            "semestre": ""
-        }
-    ],
-    "EDCP12B": [
-        {
-            "id_ramo": "EDCP12B",
-            "nombre": "COMUNICACIÓN ORAL (ONLINE)\n(BIMESTRE 1)",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "LU",
-                    "C",
-                    "CÁTEDRA"
-                ],
-                [
-                    "LU",
-                    "D",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "DIEGO FRANCISCO VARGAS DUHART",
-            "semestre": ""
-        }
-    ],
-    "ECE117": [
-        {
-            "id_ramo": "ECE117",
-            "nombre": "INTRODUCCIÓN A LA ECONOMÍA",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "MA",
-                    "B",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "B",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "G",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "SANTIAGO MONTIEL ZECCHETTO",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECE117",
-            "nombre": "INTRODUCCIÓN A LA ECONOMÍA",
-            "seccion": 2,
-            "horarios": [
-                [
-                    "VI",
-                    "A",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "B",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "C",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "AGUSTIN RIESCO GUZMAN",
-            "semestre": ""
-        }
-    ],
-    "ECM116": [
-        {
-            "id_ramo": "ECM116",
-            "nombre": "INTRODUCCIÓN AL MANAGEMENT",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "MI",
-                    "A",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "B",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "ALEX FERNADO VERA VILLACORTA",
-            "semestre": ""
-        }
-    ],
-    "ECA119": [
-        {
-            "id_ramo": "ECA119",
-            "nombre": "PENSAMIENTO Y ACTUALIDAD ECONÓMICA",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "LU",
-                    "F",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "VICTOR IGNACIO ESPINOSA LOYOLA",
-            "semestre": ""
-        }
-    ],
-    "ECT127": [
-        {
-            "id_ramo": "ECT127",
-            "nombre": "BUSINESS TECH",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "JU",
-                    "H",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "REINALDO PATRICIO CACERES VELIZ",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECT127",
-            "nombre": "BUSINESS TECH",
-            "seccion": 2,
-            "horarios": [
-                [
-                    "LU",
-                    "H",
-                    "CÁTEDRA"
-                ],
-                [
-                    "LU",
-                    "",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "ABRAHAM MOSKOVICZ GOLDSTEIN",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECT127",
-            "nombre": "BUSINESS TECH",
-            "seccion": 3,
-            "horarios": [
-                [
-                    "LU",
-                    "H",
-                    "CÁTEDRA"
-                ],
-                [
-                    "LU",
-                    "",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "VICTOR EDUARDO CABRERA MATURANA",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECT127",
-            "nombre": "BUSINESS TECH",
-            "seccion": 4,
-            "horarios": [
-                [
-                    "JU",
-                    "H",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "ABRAHAM MOSKOVICZ GOLDSTEIN",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECT127",
-            "nombre": "BUSINESS TECH",
-            "seccion": 5,
-            "horarios": [
-                [
-                    "MI",
-                    "H",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "VICTOR EDUARDO CABRERA MATURANA",
-            "semestre": ""
-        }
-    ],
-    "ECT127G": [
-        {
-            "id_ramo": "ECT127G",
-            "nombre": "BUSINESS TECH (INGLÉS)\n(GBA)",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "JU",
-                    "G",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "H",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "HECTOR DANIEL SANTANDER OBRIEN",
-            "semestre": ""
-        }
-    ],
-    "ECM123": [
-        {
-            "id_ramo": "ECM123",
-            "nombre": "CÁLCULO",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "JU",
-                    "B",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "B",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "F",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "JAVIER FIDEL MORENO DONOSO",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECM123",
-            "nombre": "CÁLCULO",
-            "seccion": 2,
-            "horarios": [
-                [
-                    "MI",
-                    "C",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "F",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "G",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "JAVIER FIDEL MORENO DONOSO",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECM123",
-            "nombre": "CÁLCULO",
-            "seccion": 3,
-            "horarios": [
-                [
-                    "MA",
-                    "D",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "D",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "H",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "RODRIGO RAUL ANTONIO MENESES VIÑUELA",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECM123",
-            "nombre": "CÁLCULO",
-            "seccion": 4,
-            "horarios": [
-                [
-                    "MA",
-                    "C",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "A",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "H",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "RODRIGO RAUL ANTONIO MENESES VIÑUELA",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECM123",
-            "nombre": "CÁLCULO",
-            "seccion": 5,
-            "horarios": [
-                [
-                    "MI",
-                    "B",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "C",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "A",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "RODRIGO RAUL ANTONIO MENESES VIÑUELA",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECM123",
-            "nombre": "CÁLCULO",
-            "seccion": 6,
-            "horarios": [
-                [
-                    "MI",
-                    "G",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "G",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "G",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "RICARDO ANDRES GARRIDO ACEVEDO",
-            "semestre": ""
-        }
-    ],
-    "ECF122": [
-        {
-            "id_ramo": "ECF122",
-            "nombre": "CONTABILIDAD I",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "LU",
-                    "F",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "B",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MA",
-                    "F",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "MARISOL BERNARDITA TRONCOSO VIDAL",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECF122",
-            "nombre": "CONTABILIDAD I",
-            "seccion": 2,
-            "horarios": [
-                [
-                    "MA",
-                    "G",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "C",
-                    "CÁTEDRA"
-                ],
-                [
-                    "LU",
-                    "B",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "MARISOL BERNARDITA TRONCOSO VIDAL",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECF122",
-            "nombre": "CONTABILIDAD I",
-            "seccion": 3,
-            "horarios": [
-                [
-                    "JU",
-                    "A",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "D",
-                    "CÁTEDRA"
-                ],
-                [
-                    "LU",
-                    "D",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "MARISOL BERNARDITA TRONCOSO VIDAL",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECF122",
-            "nombre": "CONTABILIDAD I",
-            "seccion": 4,
-            "horarios": [
-                [
-                    "MI",
-                    "F",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "F",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "G",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "MARISOL BERNARDITA TRONCOSO VIDAL",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECF122",
-            "nombre": "CONTABILIDAD I",
-            "seccion": 5,
-            "horarios": [
-                [
-                    "MA",
-                    "B",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "A",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "C",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "AMELIA ESTER CRISTINA GONZALEZ VERGARA",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECF122",
-            "nombre": "CONTABILIDAD I",
-            "seccion": 6,
-            "horarios": [
-                [
-                    "MA",
-                    "A",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "B",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "A",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "AMELIA ESTER CRISTINA GONZALEZ VERGARA",
-            "semestre": ""
-        }
-    ],
-    "ECT125D": [
-        {
-            "id_ramo": "ECT125D",
-            "nombre": "HERRAMIENTAS BÁSICAS DE DATA ANÁLYSIS (DATA)",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "MA",
-                    "A",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MA",
-                    "B",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "C",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "JUAN PABLO KARMY DIBAN",
-            "semestre": ""
-        }
-    ],
-    "EDCP13B": [
-        {
-            "id_ramo": "EDCP13B",
-            "nombre": "LECTURA CRÍTICA \n(B-LEARNING) (BIMESTRE 1)",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "LU",
-                    "A",
-                    "CÁTEDRA"
-                ],
-                [
-                    "LU",
-                    "B",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "CLAUDIA ANDREA ANDRADE ECCHIO",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EDCP13B",
-            "nombre": "LECTURA CRÍTICA \n(B-LEARNING) (BIMESTRE 1)",
-            "seccion": 2,
-            "horarios": [
-                [
-                    "LU",
-                    "C",
-                    "CÁTEDRA"
-                ],
-                [
-                    "LU",
-                    "D",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "CLAUDIA ANDREA ANDRADE ECCHIO",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EDCP13B",
-            "nombre": "LECTURA CRÍTICA \n(B-LEARNING) (BIMESTRE 1)",
-            "seccion": 3,
-            "horarios": [
-                [
-                    "MA",
-                    "A",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MA",
-                    "B",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "CLAUDIA ANDREA ANDRADE ECCHIO",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EDCP13B",
-            "nombre": "LECTURA CRÍTICA \n(B-LEARNING) (BIMESTRE 1)",
-            "seccion": 4,
-            "horarios": [
-                [
-                    "MA",
-                    "C",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MA",
-                    "D",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "CLAUDIA ANDREA ANDRADE ECCHIO",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EDCP13B",
-            "nombre": "LECTURA CRÍTICA (BIMESTRE 1)",
-            "seccion": 5,
-            "horarios": [
-                [
-                    "LU",
-                    "C",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "B",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "JORGE ANDRES CALDERA MERCADO",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EDCP13B",
-            "nombre": "LECTURA CRÍTICA (BIMESTRE 1)",
-            "seccion": 6,
-            "horarios": [
-                [
-                    "LU",
-                    "D",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "D",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "JORGE ANDRES CALDERA MERCADO",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EDCP13B",
-            "nombre": "LECTURA CRÍTICA (BIMESTRE 1)",
-            "seccion": 7,
-            "horarios": [
-                [
-                    "LU",
-                    "F",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "F",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "JORGE ANDRES CALDERA MERCADO",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EDCP13B",
-            "nombre": "LECTURA CRÍTICA (BIMESTRE 1)",
-            "seccion": 8,
-            "horarios": [
-                [
-                    "LU",
-                    "G",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "G",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "JORGE ANDRES CALDERA MERCADO",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EDCP13B",
-            "nombre": "LECTURA CRÍTICA (BIMESTRE 1)",
-            "seccion": 9,
-            "horarios": [
-                [
-                    "LU",
-                    "F",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MA",
-                    "F",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "DIEGO FRANCISCO VARGAS DUHART",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EDCP13B",
-            "nombre": "LECTURA CRÍTICA (BIMESTRE 1)",
-            "seccion": 10,
-            "horarios": [
-                [
-                    "LU",
-                    "G",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MA",
-                    "D",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "DIEGO FRANCISCO VARGAS DUHART",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EDCP13B",
-            "nombre": "LECTURA CRÍTICA (BIMESTRE 1)",
-            "seccion": 11,
-            "horarios": [
-                [
-                    "MA",
-                    "D",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "D",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "CATERINA ANTONIETA ALESSANDRINI SZORENYI",
-            "semestre": ""
-        }
-    ],
-    "EME126": [
-        {
-            "id_ramo": "EME126",
-            "nombre": "MACROECONOMÍA",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "MI",
-                    "F",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "G",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "A",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "RAIMUNDO SOTO MERINO",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EME126",
-            "nombre": "MACROECONOMÍA",
-            "seccion": 2,
-            "horarios": [
-                [
-                    "LU",
-                    "B",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "C",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MA",
-                    "G",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "JORGE CRISTIAN ECHEVERRIA VALENZUELA",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EME126",
-            "nombre": "MACROECONOMÍA",
-            "seccion": 3,
-            "horarios": [
-                [
-                    "MI",
-                    "C",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "B",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MA",
-                    "H",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "JORGE CRISTIAN ECHEVERRIA VALENZUELA",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EME126",
-            "nombre": "MACROECONOMÍA",
-            "seccion": 4,
-            "horarios": [
-                [
-                    "MI",
-                    "D",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "D",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MA",
-                    "",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "JORGE CRISTIAN ECHEVERRIA VALENZUELA",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EME126",
-            "nombre": "MACROECONOMÍA",
-            "seccion": 5,
-            "horarios": [
-                [
-                    "MA",
-                    "H",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MA",
-                    "",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "A",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "PABLO GONZALEZ ",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EME126",
-            "nombre": "MACROECONOMÍA",
-            "seccion": 6,
-            "horarios": [
-                [
-                    "MA",
-                    "A",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MA",
-                    "B",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "A",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "FELIX BERRIOS THEODULOZ",
-            "semestre": ""
-        }
-    ],
-    "EME122G": [
-        {
-            "id_ramo": "EME122G",
-            "nombre": "MACROECONOMICS (INGLÉS)\n(GBA)",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "LU",
-                    "G",
-                    "CÁTEDRA"
-                ],
-                [
-                    "LU",
-                    "H",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "H",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "RAIMUNDO SOTO MERINO",
-            "semestre": ""
-        }
-    ],
-    "EDCP14B": [
-        {
-            "id_ramo": "EDCP14B",
-            "nombre": "LECTURA CRÍTICA \n(B-LEARNING) (BIMESTRE 1)",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "LU",
-                    "A",
-                    "CÁTEDRA"
-                ],
-                [
-                    "LU",
-                    "B",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "CLAUDIA ANDREA ANDRADE ECCHIO",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EDCP14B",
-            "nombre": "LECTURA CRÍTICA \n(B-LEARNING) (BIMESTRE 1)",
-            "seccion": 2,
-            "horarios": [
-                [
-                    "LU",
-                    "C",
-                    "CÁTEDRA"
-                ],
-                [
-                    "LU",
-                    "D",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "CLAUDIA ANDREA ANDRADE ECCHIO",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EDCP14B",
-            "nombre": "LECTURA CRÍTICA \n(B-LEARNING) (BIMESTRE 1)",
-            "seccion": 3,
-            "horarios": [
-                [
-                    "MA",
-                    "A",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MA",
-                    "B",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "CLAUDIA ANDREA ANDRADE ECCHIO",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EDCP14B",
-            "nombre": "LECTURA CRÍTICA \n(B-LEARNING) (BIMESTRE 1)",
-            "seccion": 4,
-            "horarios": [
-                [
-                    "MA",
-                    "C",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MA",
-                    "D",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "CLAUDIA ANDREA ANDRADE ECCHIO",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EDCP14B",
-            "nombre": "PENSAMIENTO CRÍTICO (BIMESTRE 2)",
-            "seccion": 5,
-            "horarios": [
-                [
-                    "LU",
-                    "C",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "B",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "JORGE ANDRES CALDERA MERCADO",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EDCP14B",
-            "nombre": "PENSAMIENTO CRÍTICO (BIMESTRE 2)",
-            "seccion": 6,
-            "horarios": [
-                [
-                    "LU",
-                    "D",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "D",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "JORGE ANDRES CALDERA MERCADO",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EDCP14B",
-            "nombre": "PENSAMIENTO CRÍTICO (BIMESTRE 2)",
-            "seccion": 7,
-            "horarios": [
-                [
-                    "LU",
-                    "F",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "F",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "JORGE ANDRES CALDERA MERCADO",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EDCP14B",
-            "nombre": "PENSAMIENTO CRÍTICO (BIMESTRE 2)",
-            "seccion": 8,
-            "horarios": [
-                [
-                    "LU",
-                    "G",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "G",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "JORGE ANDRES CALDERA MERCADO",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EDCP14B",
-            "nombre": "PENSAMIENTO CRÍTICO (BIMESTRE 2)",
-            "seccion": 9,
-            "horarios": [
-                [
-                    "LU",
-                    "F",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MA",
-                    "F",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "DIEGO FRANCISCO VARGAS DUHART",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EDCP14B",
-            "nombre": "PENSAMIENTO CRÍTICO (BIMESTRE 2)",
-            "seccion": 10,
-            "horarios": [
-                [
-                    "LU",
-                    "G",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MA",
-                    "D",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "DIEGO FRANCISCO VARGAS DUHART",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EDCP14B",
-            "nombre": "PENSAMIENTO CRÍTICO (BIMESTRE 2)",
-            "seccion": 11,
-            "horarios": [
-                [
-                    "MA",
-                    "D",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "D",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "CATERINA ANTONIETA ALESSANDRINI SZORENYI",
-            "semestre": ""
-        }
-    ],
-    "ECM213": [
-        {
-            "id_ramo": "ECM213",
-            "nombre": "CÁLCULO II (MALLA ANTIGUA)",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "MA",
-                    "A",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "A",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "F",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "RODRIGO RAUL ANTONIO MENESES VIÑUELA",
-            "semestre": ""
-        }
-    ],
-    "ECA214": [
-        {
-            "id_ramo": "ECA214",
-            "nombre": "COMPORTAMIENTO ORGANIZACIONAL",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "MA",
-                    "F",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MA",
-                    "G",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "MARCELA LILIANA MOLINA VALDIVIA",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECA214",
-            "nombre": "COMPORTAMIENTO ORGANIZACIONAL",
-            "seccion": 2,
-            "horarios": [
-                [
-                    "MA",
-                    "G",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "G",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "IGNACIO ENRIQUE PEREZ SEPULVEDA",
-            "semestre": ""
-        }
-    ],
-    "ECF215": [
-        {
-            "id_ramo": "ECF215",
-            "nombre": "CONTABILIDAD II",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "MA",
-                    "C",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "C",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "C",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "MARISOL BERNARDITA TRONCOSO VIDAL",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECF215",
-            "nombre": "CONTABILIDAD II",
-            "seccion": 2,
-            "horarios": [
-                [
-                    "MA",
-                    "D",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "D",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "G",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "MARISOL BERNARDITA TRONCOSO VIDAL",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECF215",
-            "nombre": "CONTABILIDAD II",
-            "seccion": 3,
-            "horarios": [
-                [
-                    "MI",
-                    "F",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "A",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "C",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "MIGUEL ALEJANDRO BRENGI ZUNINO",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECF215",
-            "nombre": "CONTABILIDAD II",
-            "seccion": 4,
-            "horarios": [
-                [
-                    "MI",
-                    "H",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "B",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MA",
-                    "C",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "MIGUEL ALEJANDRO BRENGI ZUNINO",
-            "semestre": ""
-        }
-    ],
-    "EDP226": [
-        {
-            "id_ramo": "EDP226",
-            "nombre": "DESARROLLO PROFESIONAL I",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "MA",
-                    "B",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "CRISTIAN ENRIQUE SAAVEDRA CAVIEDES",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EDP226",
-            "nombre": "DESARROLLO PROFESIONAL I",
-            "seccion": 2,
-            "horarios": [
-                [
-                    "MA",
-                    "B",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "CLAUDIA MARGARITA PILASI CONCHA",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EDP226",
-            "nombre": "DESARROLLO PROFESIONAL I",
-            "seccion": 3,
-            "horarios": [
-                [
-                    "MA",
-                    "A",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "CLAUDIA MARGARITA PILASI CONCHA",
-            "semestre": ""
-        }
-    ],
-    "ECE211": [
-        {
-            "id_ramo": "ECE211",
-            "nombre": "MICROECONOMÍA",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "LU",
-                    "D",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "D",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "D",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "JUAN PABLO COUYOUMDJIAN NETTLE",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECE211",
-            "nombre": "MICROECONOMÍA",
-            "seccion": 2,
-            "horarios": [
-                [
-                    "LU",
-                    "D",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "D",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MA",
-                    "H",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "GONZALO VICTOR EDWARDS GUZMAN",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECE211",
-            "nombre": "MICROECONOMÍA",
-            "seccion": 3,
-            "horarios": [
-                [
-                    "MI",
-                    "A",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "D",
-                    "CÁTEDRA"
-                ],
-                [
-                    "LU",
-                    "H",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "ROMAN RUIZ SANCHEZ",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECE211",
-            "nombre": "MICROECONOMÍA",
-            "seccion": 4,
-            "horarios": [
-                [
-                    "LU",
-                    "F",
-                    "CÁTEDRA"
-                ],
-                [
-                    "LU",
-                    "G",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MA",
-                    "H",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "DANIELA RENEE LEITCH BARRA",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECE211",
-            "nombre": "MICROECONOMÍA",
-            "seccion": 5,
-            "horarios": [
-                [
-                    "MA",
-                    "D",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "D",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "G",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "ROMAN RUIZ SANCHEZ",
-            "semestre": ""
-        }
-    ],
-    "EFM216": [
-        {
-            "id_ramo": "EFM216",
-            "nombre": "PROBABILIDADES E INFERENCIA",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "LU",
-                    "A",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "H",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "A",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "CHANY ELIZABETH SANHUEZA HENRIQUEZ",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EFM216",
-            "nombre": "PROBABILIDADES E INFERENCIA",
-            "seccion": 2,
-            "horarios": [
-                [
-                    "JU",
-                    "A",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "B",
-                    "CÁTEDRA"
-                ],
-                [
-                    "LU",
-                    "A",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "CLAUDIA ANDREA ROJAS PAVEZ",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EFM216",
-            "nombre": "PROBABILIDADES E INFERENCIA",
-            "seccion": 3,
-            "horarios": [
-                [
-                    "LU",
-                    "B",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "F",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "F",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "MARILYN TERESITA NILO CHAPPA",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EFM216",
-            "nombre": "PROBABILIDADES E INFERENCIA",
-            "seccion": 4,
-            "horarios": [
-                [
-                    "LU",
-                    "C",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "G",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "F",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "MARILYN TERESITA NILO CHAPPA",
-            "semestre": ""
-        }
-    ],
-    "ECT221D": [
-        {
-            "id_ramo": "ECT221D",
-            "nombre": "BASES DE DATOS (DATA)",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "JU",
-                    "A",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "B",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MA",
-                    "F",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "JUAN PABLO KARMY DIBAN",
-            "semestre": ""
-        }
-    ],
-    "ECD224": [
-        {
-            "id_ramo": "ECD224",
-            "nombre": "DERECHO Y EMPRESA (NUEVO)",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "VI",
-                    "A",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "FRANCISCA JOSE BAEZA FERENUS",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECD224",
-            "nombre": "DERECHO Y EMPRESA (NUEVO) (ONLINE)",
-            "seccion": 2,
-            "horarios": [
-                [
-                    "MI",
-                    "A",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "JAIME ANDRES LUARTE JULIO",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECD224",
-            "nombre": "DERECHO Y EMPRESA (NUEVO) (ONLINE)",
-            "seccion": 3,
-            "horarios": [
-                [
-                    "MI",
-                    "B",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "JAIME ANDRES LUARTE JULIO",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECD224",
-            "nombre": "DERECHO Y EMPRESA (NUEVO)",
-            "seccion": 4,
-            "horarios": [
-                [
-                    "MI",
-                    "D",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "NICOLAS GARCIA LORCA",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECD224",
-            "nombre": "DERECHO Y EMPRESA (NUEVO)",
-            "seccion": 5,
-            "horarios": [
-                [
-                    "MA",
-                    "A",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "IGNACIO VICENTE PINOCHET RAVIOLA",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECD224",
-            "nombre": "DERECHO Y EMPRESA (NUEVO)",
-            "seccion": 6,
-            "horarios": [
-                [
-                    "MA",
-                    "B",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "IGNACIO VICENTE PINOCHET RAVIOLA",
-            "semestre": ""
-        }
-    ],
-    "EDB222G": [
-        {
-            "id_ramo": "EDB222G",
-            "nombre": "DOING BUSINESS IN GLOBAL MARKETS",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "MA",
-                    "H",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MA",
-                    "",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "ABRAHAM MOSKOVICZ GOLDSTEIN",
-            "semestre": ""
-        }
-    ],
-    "ECS225": [
-        {
-            "id_ramo": "ECS225",
-            "nombre": "EMPRENDER CON IMPACTO/EMPRENDIMIENTO I",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "MA",
-                    "C",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MA",
-                    "D",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "ALEJANDRA LUZ PARRAO CARTAGENA",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECS225",
-            "nombre": "EMPRENDER CON IMPACTO/EMPRENDIMIENTO I",
-            "seccion": 2,
-            "horarios": [
-                [
-                    "JU",
-                    "F",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "G",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "MARIGO DEL CARMEN ARMLEDER ALMERIGHI",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECS225",
-            "nombre": "EMPRENDER CON IMPACTO/EMPRENDIMIENTO I",
-            "seccion": 3,
-            "horarios": [
-                [
-                    "LU",
-                    "C",
-                    "CÁTEDRA"
-                ],
-                [
-                    "LU",
-                    "D",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "ALEJANDRA LUZ PARRAO CARTAGENA",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECS225",
-            "nombre": "EMPRENDER CON IMPACTO/EMPRENDIMIENTO I",
-            "seccion": 4,
-            "horarios": [
-                [
-                    "MI",
-                    "F",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "G",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "DENISSE ALEJANDRA LIZAMA PEREZ",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECS225",
-            "nombre": "EMPRENDER CON IMPACTO/EMPRENDIMIENTO I",
-            "seccion": 5,
-            "horarios": [
-                [
-                    "JU",
-                    "C",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "D",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "SABRINA ORELLANA RAMIREZ",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECS225",
-            "nombre": "EMPRENDER CON IMPACTO/EMPRENDIMIENTO I",
-            "seccion": 6,
-            "horarios": [
-                [
-                    "MI",
-                    "H",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "DENISSE ALEJANDRA LIZAMA PEREZ",
-            "semestre": ""
-        }
-    ],
-    "ECS221": [
-        {
-            "id_ramo": "ECS221",
-            "nombre": "ÉTICA DE LOS NEGOCIOS (NUEVO)",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "MA",
-                    "F",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "RODOLFO MIGUEL CORTES MENICHETTI",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECS221",
-            "nombre": "ÉTICA DE LOS NEGOCIOS (NUEVO)",
-            "seccion": 2,
-            "horarios": [
-                [
-                    "MA",
-                    "G",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "RODOLFO MIGUEL CORTES MENICHETTI",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECS221",
-            "nombre": "ÉTICA DE LOS NEGOCIOS (NUEVO)",
-            "seccion": 3,
-            "horarios": [
-                [
-                    "JU",
-                    "A",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "RODOLFO MIGUEL CORTES MENICHETTI",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECS221",
-            "nombre": "ÉTICA DE LOS NEGOCIOS (NUEVO)",
-            "seccion": 4,
-            "horarios": [
-                [
-                    "JU",
-                    "D",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "RODOLFO MIGUEL CORTES MENICHETTI",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECS221",
-            "nombre": "ÉTICA DE LOS NEGOCIOS (NUEVO)",
-            "seccion": 5,
-            "horarios": [
-                [
-                    "VI",
-                    "C",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "TATIANA LUCIA MONTES MILSTEIN",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECS221",
-            "nombre": "ÉTICA DE LOS NEGOCIOS (NUEVO)",
-            "seccion": 6,
-            "horarios": [
-                [
-                    "VI",
-                    "D",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "TATIANA LUCIA MONTES MILSTEIN",
-            "semestre": ""
-        }
-    ],
-    "ECT224": [
-        {
-            "id_ramo": "ECT224",
-            "nombre": "HERRAMIENTAS PARA EL ANÁLISIS DE DATOS (ONLINE)",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "JU",
-                    "H",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "F",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "SE ASIGNARÁ DOCENTE POST TOMA DE RAMOS",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECT224",
-            "nombre": "HERRAMIENTAS PARA EL ANÁLISIS DE DATOS (ONLINE)",
-            "seccion": 2,
-            "horarios": [
-                [
-                    "JU",
-                    "H",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "F",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "SE ASIGNARÁ DOCENTE POST TOMA DE RAMOS",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECT224",
-            "nombre": "HERRAMIENTAS PARA EL ANÁLISIS DE DATOS (ONLINE)",
-            "seccion": 3,
-            "horarios": [
-                [
-                    "JU",
-                    "",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "G",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "H",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "SE ASIGNARÁ DOCENTE POST TOMA DE RAMOS",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECT224",
-            "nombre": "HERRAMIENTAS PARA EL ANÁLISIS DE DATOS (ONLINE)",
-            "seccion": 4,
-            "horarios": [
-                [
-                    "JU",
-                    "",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "G",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "H",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "SE ASIGNARÁ DOCENTE POST TOMA DE RAMOS",
-            "semestre": ""
-        }
-    ],
-    "ECS225G": [
-        {
-            "id_ramo": "ECS225G",
-            "nombre": "INNOVATION CHANGEMAKER (INGLÉS)\n(GBA)",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "VI",
-                    "B",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "C",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "FELIPE RAFAEL COMMENTZ SILVA",
-            "semestre": ""
-        }
-    ],
-    "ECE227": [
-        {
-            "id_ramo": "ECE227",
-            "nombre": "MACROECONOMÍA (MALLA ANTIGUA)",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "MI",
-                    "D",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "C",
-                    "CÁTEDRA"
-                ],
-                [
-                    "LU",
-                    "B",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "ROMAN RUIZ SANCHEZ",
-            "semestre": ""
-        }
-    ],
-    "ECM223": [
-        {
-            "id_ramo": "ECM223",
-            "nombre": "MARKETING I",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "MA",
-                    "H",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "F",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "H",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "MARIA STEFANIA PARETI PETRUCCELLI",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECM223",
-            "nombre": "MARKETING I",
-            "seccion": 2,
-            "horarios": [
-                [
-                    "MA",
-                    "G",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "C",
-                    "CÁTEDRA"
-                ],
-                [
-                    "LU",
-                    "",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "MARIA STEFANIA PARETI PETRUCCELLI",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECM223",
-            "nombre": "MARKETING I",
-            "seccion": 3,
-            "horarios": [
-                [
-                    "MI",
-                    "A",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "B",
-                    "CÁTEDRA"
-                ],
-                [
-                    "LU",
-                    "",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "JOSE ALBERTO ARIAS SALAS",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECM223",
-            "nombre": "MARKETING I",
-            "seccion": 4,
-            "horarios": [
-                [
-                    "LU",
-                    "H",
-                    "CÁTEDRA"
-                ],
-                [
-                    "LU",
-                    "",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "H",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "MATIAS IVAN NAVARRETE CASTILLO",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECM223",
-            "nombre": "MARKETING I",
-            "seccion": 5,
-            "horarios": [
-                [
-                    "LU",
-                    "A",
-                    "CÁTEDRA"
-                ],
-                [
-                    "LU",
-                    "B",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "H",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "MARIA LUISA PINOCHET MUÑOZ",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECM223",
-            "nombre": "MARKETING I (INGLÉS)",
-            "seccion": 6,
-            "horarios": [
-                [
-                    "VI",
-                    "A",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "B",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "H",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "FRANCISCA TAGLE DOMINGUEZ",
-            "semestre": ""
-        }
-    ],
-    "ECM316": [
-        {
-            "id_ramo": "ECM316",
-            "nombre": "MARKETING I (MALLA ANTIGUA) (ONLINE)",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "MA",
-                    "F",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MA",
-                    "G",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "H",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "MARIA STEFANIA PARETI PETRUCCELLI",
-            "semestre": ""
-        }
-    ],
-    "ECM223G": [
-        {
-            "id_ramo": "ECM223G",
-            "nombre": "MARKETING I (INGLÉS)\n(GBA)",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "MI",
-                    "B",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "C",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "H",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "RODRIGO ALBERTO GUESALAGA TRAUTMANN",
-            "semestre": ""
-        }
-    ],
-    "EME222": [
-        {
-            "id_ramo": "EME222",
-            "nombre": "MÉTODOS ESTADÍSTICOS",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "LU",
-                    "B",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "D",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "D",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "CHANY ELIZABETH SANHUEZA HENRIQUEZ",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EME222",
-            "nombre": "MÉTODOS ESTADÍSTICOS",
-            "seccion": 2,
-            "horarios": [
-                [
-                    "LU",
-                    "C",
-                    "CÁTEDRA"
-                ],
-                [
-                    "LU",
-                    "D",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MA",
-                    "A",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "CHANY ELIZABETH SANHUEZA HENRIQUEZ",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EME222",
-            "nombre": "MÉTODOS ESTADÍSTICOS",
-            "seccion": 3,
-            "horarios": [
-                [
-                    "LU",
-                    "A",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "D",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "D",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "MARILYN TERESITA NILO CHAPPA",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EME222",
-            "nombre": "MÉTODOS ESTADÍSTICOS",
-            "seccion": 4,
-            "horarios": [
-                [
-                    "LU",
-                    "F",
-                    "CÁTEDRA"
-                ],
-                [
-                    "LU",
-                    "G",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "C",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "MARILYN TERESITA NILO CHAPPA",
-            "semestre": ""
-        }
-    ],
-    "ECT316": [
-        {
-            "id_ramo": "ECT316",
-            "nombre": "BUSINESS INNOVATION TECHNOLOGIES",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "LU",
-                    "A",
-                    "CÁTEDRA"
-                ],
-                [
-                    "LU",
-                    "B",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "HECTOR DANIEL SANTANDER OBRIEN",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECT316",
-            "nombre": "BUSINESS INNOVATION TECHNOLOGIES",
-            "seccion": 2,
-            "horarios": [
-                [
-                    "JU",
-                    "H",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "ANTOINE MICHEL DE L´HERBE HERRERA",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECT316",
-            "nombre": "BUSINESS INNOVATION TECHNOLOGIES",
-            "seccion": 3,
-            "horarios": [
-                [
-                    "MA",
-                    "H",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MA",
-                    "",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "REINALDO PATRICIO CACERES VELIZ",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECT316",
-            "nombre": "BUSINESS INNOVATION TECHNOLOGIES",
-            "seccion": 4,
-            "horarios": [
-                [
-                    "LU",
-                    "F",
-                    "CÁTEDRA"
-                ],
-                [
-                    "LU",
-                    "G",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "ABRAHAM MOSKOVICZ GOLDSTEIN",
-            "semestre": ""
-        }
-    ],
     "EME311": [
         {
             "id_ramo": "EME311",
@@ -2497,23 +6,18 @@
             "seccion": 1,
             "horarios": [
                 [
-                    "MI",
-                    "F",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "G",
-                    "CÁTEDRA"
-                ],
-                [
                     "MA",
+                    "A",
+                    "CÁTEDRA"
+                ],
+                [
+                    "VI",
                     "F",
                     "Ayudantía"
                 ]
             ],
-            "profesor": "MARIA FLORENCIA GABRIELLI .",
-            "semestre": ""
+            "profesor": "CARLOS MANUEL WILLINGTON .",
+            "semestre": "2026-1"
         },
         {
             "id_ramo": "EME311",
@@ -2522,22 +26,17 @@
             "horarios": [
                 [
                     "MA",
-                    "G",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
                     "F",
                     "CÁTEDRA"
                 ],
                 [
-                    "MI",
+                    "VI",
                     "F",
                     "Ayudantía"
                 ]
             ],
-            "profesor": "GONZALO VICTOR EDWARDS GUZMAN",
-            "semestre": ""
+            "profesor": "CARLOS MANUEL WILLINGTON .",
+            "semestre": "2026-1"
         },
         {
             "id_ramo": "EME311",
@@ -2546,947 +45,46 @@
             "horarios": [
                 [
                     "MA",
-                    "D",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "B",
+                    "F",
                     "CÁTEDRA"
                 ],
                 [
                     "MI",
+                    "F",
+                    "CÁTEDRA"
+                ],
+                [
+                    "VI",
+                    "F",
+                    "Ayudantía"
+                ]
+            ],
+            "profesor": "GONZALO VICTOR EDWARDS GUZMAN",
+            "semestre": "2026-1"
+        },
+        {
+            "id_ramo": "EME311",
+            "nombre": "COMPETENCIA Y MERCADOS",
+            "seccion": 4,
+            "horarios": [
+                [
+                    "MA",
+                    "G",
+                    "CÁTEDRA"
+                ],
+                [
+                    "MI",
+                    "G",
+                    "CÁTEDRA"
+                ],
+                [
+                    "VI",
                     "F",
                     "Ayudantía"
                 ]
             ],
             "profesor": "GONZALO VICTOR EDWARDS GUZMAN",
-            "semestre": ""
-        }
-    ],
-    "EME312": [
-        {
-            "id_ramo": "EME312",
-            "nombre": "ESTADÍSTICA II",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "MI",
-                    "F",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "G",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "D",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "CHANY ELIZABETH SANHUEZA HENRIQUEZ",
-            "semestre": ""
-        }
-    ],
-    "EME313": [
-        {
-            "id_ramo": "EME313",
-            "nombre": "ESTRATEGÍA DE VISUALIZACIÓN DE DATOS",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "LU",
-                    "C",
-                    "CÁTEDRA"
-                ],
-                [
-                    "LU",
-                    "D",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "D",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "MILENA BONACIC MARTINIC",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EME313",
-            "nombre": "ESTRATEGÍA DE VISUALIZACIÓN DE DATOS",
-            "seccion": 2,
-            "horarios": [
-                [
-                    "JU",
-                    "D",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "D",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "C",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "YAMIL NACIB TALA MUSSA",
-            "semestre": ""
-        }
-    ],
-    "EEF315": [
-        {
-            "id_ramo": "EEF315",
-            "nombre": "FINANZAS",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "JU",
-                    "C",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "C",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MA",
-                    "C",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "FRANCISCO JAVIER LABARCA TRUCIOS",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EEF315",
-            "nombre": "FINANZAS",
-            "seccion": 2,
-            "horarios": [
-                [
-                    "VI",
-                    "A",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "B",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "A",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "GUILLERMO JOSE YAÑEZ CASTRO",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EEF315",
-            "nombre": "FINANZAS",
-            "seccion": 3,
-            "horarios": [
-                [
-                    "MI",
-                    "H",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "F",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "JUAN PABLO SAFFIE AWAD",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EEF315",
-            "nombre": "FINANZAS",
-            "seccion": 4,
-            "horarios": [
-                [
-                    "MI",
-                    "H",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "F",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "ALFREDO RIESCO CONCHA",
-            "semestre": ""
-        }
-    ],
-    "EEF311": [
-        {
-            "id_ramo": "EEF311",
-            "nombre": "FINANZAS I",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "LU",
-                    "C",
-                    "CÁTEDRA"
-                ],
-                [
-                    "LU",
-                    "D",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "C",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "JUAN DE DIOS CARVAJAL LLANEZA",
-            "semestre": ""
-        }
-    ],
-    "ECE313": [
-        {
-            "id_ramo": "ECE313",
-            "nombre": "ORGANIZACIÓN INDUSTRIAL Y ESTRATEGIA COMPETITIVA",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "MA",
-                    "B",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "B",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "B",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "ROMAN RUIZ SANCHEZ",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECE313",
-            "nombre": "ORGANIZACIÓN INDUSTRIAL Y ESTRATEGIA COMPETITIVA",
-            "seccion": 2,
-            "horarios": [
-                [
-                    "MA",
-                    "C",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "C",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "B",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "ROMAN RUIZ SANCHEZ",
-            "semestre": ""
-        }
-    ],
-    "ECA312": [
-        {
-            "id_ramo": "ECA312",
-            "nombre": "ORGANIZACIONES ÁGILES",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "VI",
-                    "A",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "B",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MA",
-                    "",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "GUILLERMO LARRAIN MOREL",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECA312",
-            "nombre": "ORGANIZACIONES ÁGILES",
-            "seccion": 2,
-            "horarios": [
-                [
-                    "LU",
-                    "H",
-                    "CÁTEDRA"
-                ],
-                [
-                    "LU",
-                    "",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "G",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "RUBEN ANDRES DAZA BARRA",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECA312",
-            "nombre": "ORGANIZACIONES ÁGILES",
-            "seccion": 3,
-            "horarios": [
-                [
-                    "JU",
-                    "H",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "G",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "RUBEN ANDRES DAZA BARRA",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECA312",
-            "nombre": "ORGANIZACIONES ÁGILES",
-            "seccion": 4,
-            "horarios": [
-                [
-                    "MI",
-                    "A",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "B",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "G",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "GUILLERMO LARRAIN MOREL",
-            "semestre": ""
-        }
-    ],
-    "ECA315": [
-        {
-            "id_ramo": "ECA315",
-            "nombre": "TOMA DE DECISIONES Y HABILIDADES GERENCIALES (ONLINE)",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "MA",
-                    "H",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MA",
-                    "",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "DANIEL CARLOS KNAPP ROSENBERG",
-            "semestre": ""
-        }
-    ],
-    "EDP326": [
-        {
-            "id_ramo": "EDP326",
-            "nombre": "DESARROLLO PROFESIONAL II",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "LU",
-                    "A",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "VERONICA GOLDSACK PEREZ",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EDP326",
-            "nombre": "DESARROLLO PROFESIONAL II",
-            "seccion": 2,
-            "horarios": [
-                [
-                    "LU",
-                    "B",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "VERONICA GOLDSACK PEREZ",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EDP326",
-            "nombre": "DESARROLLO PROFESIONAL II",
-            "seccion": 3,
-            "horarios": [
-                [
-                    "JU",
-                    "A",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "MATIAS FRANCISCO SANCHEZ FERRER",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EDP326",
-            "nombre": "DESARROLLO PROFESIONAL II",
-            "seccion": 4,
-            "horarios": [
-                [
-                    "JU",
-                    "B",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "MATIAS FRANCISCO SANCHEZ FERRER",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EDP326",
-            "nombre": "DESARROLLO PROFESIONAL II",
-            "seccion": 5,
-            "horarios": [
-                [
-                    "LU",
-                    "C",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "VERONICA GOLDSACK PEREZ",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EDP326",
-            "nombre": "DESARROLLO PROFESIONAL II",
-            "seccion": 6,
-            "horarios": [
-                [
-                    "MA",
-                    "D",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "MATIAS FRANCISCO SANCHEZ FERRER",
-            "semestre": ""
-        }
-    ],
-    "EME322": [
-        {
-            "id_ramo": "EME322",
-            "nombre": "ECONOMETRÍA PARA LA TOMA DE DECISIONES",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "JU",
-                    "F",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "G",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "MARTIN ANDRES JOSE CARRASCO NOVOA",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EME322",
-            "nombre": "ECONOMETRÍA PARA LA TOMA DE DECISIONES (ONLINE)",
-            "seccion": 2,
-            "horarios": [
-                [
-                    "LU",
-                    "A",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MA",
-                    "",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "SERGIO JOSE CARRASCO NOVOA",
-            "semestre": ""
-        }
-    ],
-    "ECS325": [
-        {
-            "id_ramo": "ECS325",
-            "nombre": "EMPRENDIMIENTO INNOVADOR/EMPRENDIMIENTO II",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "JU",
-                    "C",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "D",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "MARIGO DEL CARMEN ARMLEDER ALMERIGHI",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECS325",
-            "nombre": "EMPRENDIMIENTO INNOVADOR/EMPRENDIMIENTO II",
-            "seccion": 2,
-            "horarios": [
-                [
-                    "JU",
-                    "G",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "H",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "SIN DOCENTE CONFIRMADO",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECS325",
-            "nombre": "EMPRENDIMIENTO INNOVADOR/EMPRENDIMIENTO II",
-            "seccion": 3,
-            "horarios": [
-                [
-                    "MA",
-                    "G",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MA",
-                    "H",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "GABRIEL AMADO LEIVA VALENZUELA",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECS325",
-            "nombre": "EMPRENDIMIENTO INNOVADOR/EMPRENDIMIENTO II",
-            "seccion": 4,
-            "horarios": [
-                [
-                    "LU",
-                    "H",
-                    "CÁTEDRA"
-                ],
-                [
-                    "LU",
-                    "",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "GABRIEL AMADO LEIVA VALENZUELA",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECS325",
-            "nombre": "EMPRENDIMIENTO INNOVADOR/EMPRENDIMIENTO II",
-            "seccion": 5,
-            "horarios": [
-                [
-                    "VI",
-                    "A",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "B",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "ALEX FERNADO VERA VILLACORTA",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECS325",
-            "nombre": "EMPRENDIMIENTO INNOVADOR/EMPRENDIMIENTO II",
-            "seccion": 6,
-            "horarios": [
-                [
-                    "JU",
-                    "H",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "SANTIAGO ALLAMAND LATORRE",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECS325",
-            "nombre": "EMPRENDIMIENTO INNOVADOR/EMPRENDIMIENTO II (INGLÉS) (BACHELOR)",
-            "seccion": 7,
-            "horarios": [
-                [
-                    "LU",
-                    "B",
-                    "CÁTEDRA"
-                ],
-                [
-                    "LU",
-                    "C",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "FELIPE RAFAEL COMMENTZ SILVA",
-            "semestre": ""
-        }
-    ],
-    "ECG322": [
-        {
-            "id_ramo": "ECG322",
-            "nombre": "ESTRATEGIA",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "MA",
-                    "C",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MA",
-                    "D",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "IGNACIO JAVIER DURAN PINOCHET",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECG322",
-            "nombre": "ESTRATEGIA",
-            "seccion": 2,
-            "horarios": [
-                [
-                    "LU",
-                    "F",
-                    "CÁTEDRA"
-                ],
-                [
-                    "LU",
-                    "G",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "IGNACIO JAVIER DURAN PINOCHET",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECG322",
-            "nombre": "ESTRATEGIA",
-            "seccion": 3,
-            "horarios": [
-                [
-                    "MI",
-                    "H",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "CRISTIAN JULIO MONTENEGRO MUÑOZ",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECG322",
-            "nombre": "ESTRATEGIA (INGLÉS)",
-            "seccion": 4,
-            "horarios": [
-                [
-                    "LU",
-                    "F",
-                    "CÁTEDRA"
-                ],
-                [
-                    "LU",
-                    "G",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "MANUEL DAVID GOMEZ SOLORZANO",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECG322",
-            "nombre": "ESTRATEGIA (INGLÉS) (BACHELOR)",
-            "seccion": 5,
-            "horarios": [
-                [
-                    "JU",
-                    "C",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "D",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "LUIS DARIO TORRES RETAMAL",
-            "semestre": ""
-        }
-    ],
-    "ECS418": [
-        {
-            "id_ramo": "ECS418",
-            "nombre": "ÉTICA PROFESIONAL (MALLA ANTIGUA)",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "MA",
-                    "C",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MA",
-                    "D",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "PAULA TERESA SILES DEL VALLE",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECS418",
-            "nombre": "ÉTICA PROFESIONAL (MALLA ANTIGUA)",
-            "seccion": 2,
-            "horarios": [
-                [
-                    "VI",
-                    "C",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "D",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "PAULA TERESA SILES DEL VALLE",
-            "semestre": ""
-        }
-    ],
-    "EEF324": [
-        {
-            "id_ramo": "EEF324",
-            "nombre": "FINANZAS CORPORATIVAS",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "MI",
-                    "C",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "B",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MA",
-                    "",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "FRANCISCO JAVIER LABARCA TRUCIOS",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EEF324",
-            "nombre": "FINANZAS CORPORATIVAS",
-            "seccion": 2,
-            "horarios": [
-                [
-                    "MA",
-                    "A",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MA",
-                    "B",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "B",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "DOMINGO JAVIER CORREA GARCIA HUIDOBRO",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EEF324",
-            "nombre": "FINANZAS CORPORATIVAS",
-            "seccion": 3,
-            "horarios": [
-                [
-                    "MI",
-                    "A",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "A",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "F",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "ANDRES MERINO CRUZ",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EEF324",
-            "nombre": "FINANZAS CORPORATIVAS",
-            "seccion": 4,
-            "horarios": [
-                [
-                    "MI",
-                    "A",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "B",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "F",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "ALVARO EDUARDO RAMIREZ FIGUEROA",
-            "semestre": ""
-        }
-    ],
-    "EEF321": [
-        {
-            "id_ramo": "EEF321",
-            "nombre": "FINANZAS II",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "MI",
-                    "B",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "D",
-                    "CÁTEDRA"
-                ],
-                [
-                    "LU",
-                    "D",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "FRANCISCO JAVIER LABARCA TRUCIOS",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EEF321",
-            "nombre": "FINANZAS II",
-            "seccion": 2,
-            "horarios": [
-                [
-                    "MA",
-                    "A",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "A",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "D",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "IGNACIO RODRIGUEZ EDWARDS",
-            "semestre": ""
+            "semestre": "2026-1"
         }
     ],
     "ECM321": [
@@ -3496,23 +94,13 @@
             "seccion": 1,
             "horarios": [
                 [
-                    "MI",
-                    "F",
+                    "MA",
+                    "C",
                     "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "G",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "H",
-                    "Ayudantía"
                 ]
             ],
             "profesor": "MARIA STEFANIA PARETI PETRUCCELLI",
-            "semestre": ""
+            "semestre": "2026-1"
         },
         {
             "id_ramo": "ECM321",
@@ -3520,151 +108,49 @@
             "seccion": 2,
             "horarios": [
                 [
-                    "MI",
-                    "D",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "D",
-                    "CÁTEDRA"
-                ],
-                [
-                    "LU",
-                    "D",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "CLAUDIO ALBERTO AQUEVEQUE TORRES",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECM321",
-            "nombre": "MARKETING II",
-            "seccion": 3,
-            "horarios": [
-                [
-                    "MI",
-                    "C",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "C",
-                    "CÁTEDRA"
-                ],
-                [
-                    "LU",
-                    "D",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "CLAUDIO ALBERTO AQUEVEQUE TORRES",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECM321",
-            "nombre": "MARKETING II",
-            "seccion": 4,
-            "horarios": [
-                [
                     "MA",
                     "G",
                     "CÁTEDRA"
-                ],
-                [
-                    "MA",
-                    "H",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "H",
-                    "Ayudantía"
                 ]
             ],
-            "profesor": "JUAN FRANCISCO STAUDT ",
-            "semestre": ""
+            "profesor": "JUAN FRANCISCO STAUDT",
+            "semestre": "2026-1"
         },
         {
             "id_ramo": "ECM321",
             "nombre": "MARKETING II (INGLÉS)",
-            "seccion": 5,
+            "seccion": 3,
             "horarios": [
                 [
-                    "MA",
-                    "B",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MA",
-                    "C",
-                    "CÁTEDRA"
-                ],
-                [
                     "VI",
-                    "H",
-                    "Ayudantía"
+                    "F",
+                    "CÁTEDRA"
                 ]
             ],
-            "profesor": "RODRIGO ALBERTO GUESALAGA TRAUTMANN",
-            "semestre": ""
+            "profesor": "LUIS EDUARDO UNDA GARCIA",
+            "semestre": "2026-1"
         }
     ],
     "ECM327": [
         {
             "id_ramo": "ECM327",
-            "nombre": "MARKETING II (MALLA ANTIGUA) (ONLINE)",
+            "nombre": "MARKETING II (Malla Antigua)",
             "seccion": 1,
             "horarios": [
                 [
-                    "JU",
-                    "H",
+                    "MI",
+                    "F",
                     "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "G",
-                    "Ayudantía"
                 ]
             ],
-            "profesor": "FRANCISCO PIZARRO BRAVO",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECM327",
-            "nombre": "MARKETING II (MALLA ANTIGUA)(ONLINE) (INGLÉS)",
-            "seccion": 2,
-            "horarios": [
-                [
-                    "MA",
-                    "G",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MA",
-                    "H",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "G",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "LORETO EULOGIA DEL CARMEN MARTINEZ GIMENEZ",
-            "semestre": ""
+            "profesor": "MARIA STEFANIA PARETI PETRUCCELLI",
+            "semestre": "2026-1"
         }
     ],
-    "EME323": [
+    "EEF324": [
         {
-            "id_ramo": "EME323",
-            "nombre": "PROYECTO DE ANÀLISIS DE DATOS",
+            "id_ramo": "EEF324",
+            "nombre": "FINANZAS CORPORATIVAS",
             "seccion": 1,
             "horarios": [
                 [
@@ -3674,185 +160,45 @@
                 ],
                 [
                     "MI",
-                    "F",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "IGNACIO ENRIQUE PEREZ SEPULVEDA",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EME323",
-            "nombre": "PROYECTO DE ANÀLISIS DE DATOS",
-            "seccion": 2,
-            "horarios": [
-                [
-                    "MA",
-                    "F",
+                    "B",
                     "CÁTEDRA"
                 ],
                 [
                     "JU",
-                    "F",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "MIGUEL ANGEL FERNANDEZ PLAZA",
-            "semestre": ""
-        }
-    ],
-    "ECI327": [
-        {
-            "id_ramo": "ECI327",
-            "nombre": "TECH AND INNOVATION (ONLINE)",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "LU",
-                    "F",
-                    "CÁTEDRA"
-                ],
-                [
-                    "LU",
-                    "G",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "TAMARA NOVAKOV ",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECI327",
-            "nombre": "TECH AND INNOVATION (ONLINE)",
-            "seccion": 2,
-            "horarios": [
-                [
-                    "MI",
-                    "G",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "H",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "TAMARA NOVAKOV ",
-            "semestre": ""
-        }
-    ],
-    "ECA415": [
-        {
-            "id_ramo": "ECA415",
-            "nombre": "ADMINISTRACIÓN DE LA PRODUCCIÓN",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "MI",
-                    "C",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "D",
-                    "CÁTEDRA"
-                ],
-                [
-                    "LU",
-                    "F",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "FRANCISCO IGNACIO VALENZUELA COLLADO",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECA415",
-            "nombre": "ADMINISTRACIÓN DE LA PRODUCCIÓN",
-            "seccion": 2,
-            "horarios": [
-                [
-                    "MI",
-                    "F",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "G",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "H",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "FRANCISCO IGNACIO VALENZUELA COLLADO",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECA415",
-            "nombre": "ADMINISTRACIÓN DE LA PRODUCCIÓN",
-            "seccion": 3,
-            "horarios": [
-                [
-                    "MI",
-                    "H",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "H",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "FRANCISCO IGNACIO VALENZUELA COLLADO",
-            "semestre": ""
-        }
-    ],
-    "EEF411": [
-        {
-            "id_ramo": "EEF411",
-            "nombre": "FINANZAS III",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "JU",
-                    "F",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "G",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MA",
-                    "H",
+                    "A",
                     "Ayudantía"
                 ]
             ],
             "profesor": "FRANCISCO JAVIER LABARCA TRUCIOS",
-            "semestre": ""
+            "semestre": "2026-1"
         },
         {
-            "id_ramo": "EEF411",
-            "nombre": "FINANZAS III",
+            "id_ramo": "EEF324",
+            "nombre": "FINANZAS CORPORATIVAS",
             "seccion": 2,
             "horarios": [
                 [
                     "MA",
-                    "H",
+                    "A",
                     "CÁTEDRA"
                 ],
                 [
-                    "MA",
-                    "",
+                    "JU",
+                    "A",
+                    "Ayudantía"
+                ]
+            ],
+            "profesor": "ANDRES MERINO CRUZ",
+            "semestre": "2026-1"
+        },
+        {
+            "id_ramo": "EEF324",
+            "nombre": "FINANZAS CORPORATIVAS",
+            "seccion": 3,
+            "horarios": [
+                [
+                    "MI",
+                    "A",
                     "CÁTEDRA"
                 ],
                 [
@@ -3861,527 +207,62 @@
                     "Ayudantía"
                 ]
             ],
-            "profesor": "JORGE ANDRES OPASO WARSZAWSKI",
-            "semestre": ""
-        }
-    ],
-    "ECH417": [
-        {
-            "id_ramo": "ECH417",
-            "nombre": "GESTIÓN DE PERSONAS II",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "JU",
-                    "A",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "B",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "MARCELO RODRIGO ALVAREZ JARA",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECH417",
-            "nombre": "GESTIÓN DE PERSONAS II",
-            "seccion": 2,
-            "horarios": [
-                [
-                    "VI",
-                    "A",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "B",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "SEBASTIAN EDUARDO MUJICA TRUJILLO",
-            "semestre": ""
+            "profesor": "ALVARO EDUARDO RAMIREZ FIGUEROA",
+            "semestre": "2026-1"
         }
     ],
     "ECM417": [
         {
             "id_ramo": "ECM417",
-            "nombre": "MARKETING III (ONLINE)",
+            "nombre": "MARKETING III",
             "seccion": 1,
             "horarios": [
                 [
                     "JU",
                     "H",
                     "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "F",
-                    "Ayudantía"
                 ]
             ],
-            "profesor": "DANIELA ALEJANDRA CORTAZZO .",
-            "semestre": ""
+            "profesor": "MARIA STEFANIA PARETI PETRUCCELLI",
+            "semestre": "2026-1"
         },
         {
             "id_ramo": "ECM417",
-            "nombre": "MARKETING III (ONLINE)",
+            "nombre": "MARKETING III",
             "seccion": 2,
             "horarios": [
                 [
                     "MA",
                     "F",
                     "CÁTEDRA"
-                ],
-                [
-                    "MA",
-                    "G",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "F",
-                    "Ayudantía"
                 ]
             ],
-            "profesor": "FRANCISCO PIZARRO BRAVO",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECM417",
-            "nombre": "MARKETING III (INGLÉS) (ONLINE)",
-            "seccion": 3,
-            "horarios": [
-                [
-                    "VI",
-                    "F",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "G",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "LUIS EDUARDO UNDA GARCIA",
-            "semestre": ""
-        }
-    ],
-    "EEE422": [
-        {
-            "id_ramo": "EEE422",
-            "nombre": "EVALUACIÓN DE PROYECTOS",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "MI",
-                    "F",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "G",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "G",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "FRANCISCO JAVIER LABARCA TRUCIOS",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "EEE422",
-            "nombre": "EVALUACIÓN DE PROYECTOS",
-            "seccion": 2,
-            "horarios": [
-                [
-                    "LU",
-                    "H",
-                    "CÁTEDRA"
-                ],
-                [
-                    "LU",
-                    "",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "G",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "FERNANDO CLAUDIO ARAYA PRADENAS",
-            "semestre": ""
-        }
-    ],
-    "ECE424": [
-        {
-            "id_ramo": "ECE424",
-            "nombre": "POLÍTICA Y ACTUALIDAD ECONÓMICA (ONLINE)",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "LU",
-                    "B",
-                    "CÁTEDRA"
-                ],
-                [
-                    "LU",
-                    "C",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "CARLOS SMITH CLAVERÍA",
-            "semestre": ""
-        }
-    ],
-    "ECP429": [
-        {
-            "id_ramo": "ECP429",
-            "nombre": "PROGRAMA INSERCIÓN LABORAL: PRÁCTICA I",
-            "seccion": 1,
-            "horarios": [],
-            "profesor": "SE ASIGNARÁ DOCENTE POST TOMA DE RAMOS",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECP429",
-            "nombre": "PROGRAMA INSERCIÓN LABORAL: PRÁCTICA I",
-            "seccion": 2,
-            "horarios": [],
-            "profesor": "SE ASIGNARÁ DOCENTE POST TOMA DE RAMOS",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECP429",
-            "nombre": "PROGRAMA INSERCIÓN LABORAL: PRÁCTICA I",
-            "seccion": 3,
-            "horarios": [],
-            "profesor": "SE ASIGNARÁ DOCENTE POST TOMA DE RAMOS",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECP429",
-            "nombre": "PROGRAMA INSERCIÓN LABORAL: PRÁCTICA I",
-            "seccion": 4,
-            "horarios": [],
-            "profesor": "SE ASIGNARÁ DOCENTE POST TOMA DE RAMOS",
-            "semestre": ""
-        }
-    ],
-    "ECP519": [
-        {
-            "id_ramo": "ECP519",
-            "nombre": "PROGRAMA INSERCIÓN LABORAL: PRÁCTICA II",
-            "seccion": 1,
-            "horarios": [],
-            "profesor": "SE ASIGNARÁ DOCENTE POST TOMA DE RAMOS",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECP519",
-            "nombre": "PROGRAMA INSERCIÓN LABORAL: PRÁCTICA II",
-            "seccion": 2,
-            "horarios": [],
-            "profesor": "SE ASIGNARÁ DOCENTE POST TOMA DE RAMOS",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECP519",
-            "nombre": "PROGRAMA INSERCIÓN LABORAL: PRÁCTICA II",
-            "seccion": 3,
-            "horarios": [],
-            "profesor": "SE ASIGNARÁ DOCENTE POST TOMA DE RAMOS",
-            "semestre": ""
-        }
-    ],
-    "ECE529": [
-        {
-            "id_ramo": "ECE529",
-            "nombre": "SEMINARIO DE CREACIÓN DE NEGOCIOS",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "LU",
-                    "F",
-                    "CÁTEDRA"
-                ],
-                [
-                    "LU",
-                    "G",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "F",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "ANGEL SEVIL ESTEBAN",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECE529",
-            "nombre": "SEMINARIO DE CREACIÓN DE NEGOCIOS",
-            "seccion": 2,
-            "horarios": [
-                [
-                    "JU",
-                    "H",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "F",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "CRISTIAN ALBERTO JOSE RAGGIO DONOSO",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "ECE529",
-            "nombre": "SEMINARIO DE CREACIÓN DE NEGOCIOS",
-            "seccion": 3,
-            "horarios": [
-                [
-                    "MI",
-                    "H",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "F",
-                    "Ayudantía"
-                ]
-            ],
-            "profesor": "JUAN DE DIOS CARVAJAL LLANEZA",
-            "semestre": ""
-        }
-    ],
-    "DRI359": [
-        {
-            "id_ramo": "DRI359",
-            "nombre": "BUSINESS NEGOTIATIONS (INGLÉS)",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "JU",
-                    "B",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "C",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "PATRICIA STAMEY DUANE ",
-            "semestre": ""
+            "profesor": "MARIA STEFANIA PARETI PETRUCCELLI",
+            "semestre": "2026-1"
         }
     ],
     "DRI356": [
         {
             "id_ramo": "DRI356",
-            "nombre": "CHANGE MANAGEMENT SKILLS TO SUCCESFULLY LEAD ORGANIZATIONS (INGLÉS)",
+            "nombre": "CHANGE MANAGEMENT SKILLS TO SUCCESFULLY LEAD ORGANIZATIONS (INGLES)",
             "seccion": 1,
             "horarios": [
                 [
                     "MA",
                     "F",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MA",
-                    "G",
                     "CÁTEDRA"
                 ]
             ],
             "profesor": "MANFRED BRAUCHLE QUIGLEY",
-            "semestre": ""
-        }
-    ],
-    "EELE552": [
-        {
-            "id_ramo": "EELE552",
-            "nombre": "CIENCIA ECONÓMICA APORTE:EN RESOLVER PROBLEMAS CONCRETOS",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "MA",
-                    "F",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MA",
-                    "G",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "EDUARDO ANINAT URETA",
-            "semestre": ""
-        }
-    ],
-    "RIC152": [
-        {
-            "id_ramo": "RIC152",
-            "nombre": "CREATIVITY AND INNOVATION MANAGEMENT (INGLÉS)",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "JU",
-                    "C",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "D",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "GERARD JOHANNES PRINS .",
-            "semestre": ""
-        },
-        {
-            "id_ramo": "RIC152",
-            "nombre": "CREATIVITY AND INNOVATION MANAGEMENT (INGLÉS)",
-            "seccion": 2,
-            "horarios": [
-                [
-                    "JU",
-                    "F",
-                    "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "G",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "GERARD JOHANNES PRINS .",
-            "semestre": ""
-        }
-    ],
-    "EELE745M": [
-        {
-            "id_ramo": "EELE745M",
-            "nombre": "CUSTOMER EXPERIENCE & TECHNOLOGIES (INGLÉS) (ONLINE)",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "MA",
-                    "B",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MA",
-                    "C",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "VENKATARAMANA KORUKONDA MURTY .",
-            "semestre": ""
-        }
-    ],
-    "EELE371": [
-        {
-            "id_ramo": "EELE371",
-            "nombre": "ECONOMÍA DE LA INCERTIDUMBRE Y DE LA INFORMACIÓN",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "LU",
-                    "G",
-                    "CÁTEDRA"
-                ],
-                [
-                    "LU",
-                    "H",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "GONZALO VICTOR EDWARDS GUZMAN",
-            "semestre": ""
-        }
-    ],
-    "EELE651": [
-        {
-            "id_ramo": "EELE651",
-            "nombre": "ESTRUCTURAS DE PROGRAMACIÓN Y DATOS EN PYTHON (ONLINE)",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "VI",
-                    "G",
-                    "CÁTEDRA"
-                ],
-                [
-                    "VI",
-                    "H",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "YAMIL NACIB TALA MUSSA",
-            "semestre": ""
-        }
-    ],
-    "EELE761D": [
-        {
-            "id_ramo": "EELE761D",
-            "nombre": "FINANZAS PARA EL EMPRENDIMIENTO (ONLINE)",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "LU",
-                    "H",
-                    "CÁTEDRA"
-                ],
-                [
-                    "LU",
-                    "",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "FRANCISCO JAVIER LABARCA TRUCIOS",
-            "semestre": ""
+            "semestre": "2026-1"
         }
     ],
     "DRI357": [
         {
             "id_ramo": "DRI357",
-            "nombre": "FUTURE SCENARIOS & SOCIAL CHANGE IN THE EMERGING ECONOMIES (INGLÉS) (ONLINE)",
+            "nombre": "FUTURE SCENARIOS & SOCIAL CHANGE IN THE EMERGING ECONOMIES",
             "seccion": 1,
             "horarios": [
-                [
-                    "MA",
-                    "A",
-                    "CÁTEDRA"
-                ],
                 [
                     "JU",
                     "A",
@@ -4389,133 +270,183 @@
                 ]
             ],
             "profesor": "MARIO IGNACIO REYES SALDIAS",
-            "semestre": ""
+            "semestre": "2026-1"
         }
     ],
-    "EELE576": [
+    "DRI359": [
         {
-            "id_ramo": "EELE576",
-            "nombre": "INNOVACIÓN COMO AGENTE DE CAMBIO (ONLINE)",
+            "id_ramo": "DRI359",
+            "nombre": "BUSINESS NEGOTIATIONS (INGLES)",
             "seccion": 1,
             "horarios": [
                 [
-                    "MA",
-                    "H",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MA",
-                    "",
+                    "JU",
+                    "B",
                     "CÁTEDRA"
                 ]
             ],
-            "profesor": "JOSE OSCAR CUEVAS VALENZUELA",
-            "semestre": ""
+            "profesor": "PATRICIA STAMEY DUANE",
+            "semestre": "2026-1"
         }
     ],
     "EEI343": [
         {
             "id_ramo": "EEI343",
-            "nombre": "INTERNATIONAL BUSINESS  (INGLÉS) (ONLINE) (CERTIFICATE GLOBAL BUSINESS)",
+            "nombre": "INTERNATIONAL BUSINESS",
             "seccion": 1,
             "horarios": [
                 [
-                    "MI",
-                    "H",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "",
+                    "LU",
+                    "A",
                     "CÁTEDRA"
                 ]
             ],
             "profesor": "ABRAHAM MOSKOVICZ GOLDSTEIN",
-            "semestre": ""
+            "semestre": "2026-1"
         }
     ],
-    "EELF590": [
+    "EEL473": [
         {
-            "id_ramo": "EELF590",
-            "nombre": "INVERSIONES APLICADAS",
+            "id_ramo": "EEL473",
+            "nombre": "MARKETING DIGITAL",
             "seccion": 1,
             "horarios": [
                 [
-                    "MA",
+                    "LU",
                     "H",
-                    "CÁTEDRA"
-                ],
-                [
-                    "MA",
-                    "",
                     "CÁTEDRA"
                 ]
             ],
-            "profesor": "AXEL BERNHARD TIMMERMANN FABRES",
-            "semestre": ""
+            "profesor": "JOSE MAURICIO VIVES FERNANDEZ",
+            "semestre": "2026-1"
         }
     ],
     "EEL652": [
         {
             "id_ramo": "EEL652",
-            "nombre": "INVESTIGACIÓN DE MERCADO (ONLINE)",
+            "nombre": "INVESTIGACIÓN DE MERCADO",
             "seccion": 1,
             "horarios": [
                 [
                     "MI",
                     "H",
                     "CÁTEDRA"
-                ],
-                [
-                    "MI",
-                    "",
-                    "CÁTEDRA"
                 ]
             ],
             "profesor": "FRANCISCO PIZARRO BRAVO",
-            "semestre": ""
+            "semestre": "2026-1"
+        }
+    ],
+    "EELE533": [
+        {
+            "id_ramo": "EELE533",
+            "nombre": "RETAIL MARKETING",
+            "seccion": 1,
+            "horarios": [
+                [
+                    "MI",
+                    "H",
+                    "CÁTEDRA"
+                ]
+            ],
+            "profesor": "DANIELA ALEJANDRA CORTAZZO .",
+            "semestre": "2026-1"
+        }
+    ],
+    "EELE566": [
+        {
+            "id_ramo": "EELE566",
+            "nombre": "PSICOLOGÍA DEL EMPRENDIMIENTO",
+            "seccion": 1,
+            "horarios": [
+                [
+                    "LU",
+                    "C",
+                    "CÁTEDRA"
+                ]
+            ],
+            "profesor": "CARLOS ABEL POBLETE CAZENAVE",
+            "semestre": "2026-1"
+        }
+    ],
+    "EELE567": [
+        {
+            "id_ramo": "EELE567",
+            "nombre": "DERIVADOS FINANCIEROS",
+            "seccion": 1,
+            "horarios": [
+                [
+                    "LU",
+                    "A",
+                    "CÁTEDRA"
+                ]
+            ],
+            "profesor": "DANIEL ECHAVARRI",
+            "semestre": "2026-1"
+        }
+    ],
+    "EELE568": [
+        {
+            "id_ramo": "EELE568",
+            "nombre": "MERCADO DE CAPITALES",
+            "seccion": 1,
+            "horarios": [
+                [
+                    "MA",
+                    "G",
+                    "CÁTEDRA"
+                ]
+            ],
+            "profesor": "JORGE ANDRES OPASO WARSZAWSKI",
+            "semestre": "2026-1"
+        }
+    ],
+    "EELE570": [
+        {
+            "id_ramo": "EELE570",
+            "nombre": "GESTIÓN DE TALENTOS",
+            "seccion": 1,
+            "horarios": [
+                [
+                    "LU",
+                    "H",
+                    "CÁTEDRA"
+                ]
+            ],
+            "profesor": "NICOLAS LEONARDO DE LA CUESTA GORMAZ",
+            "semestre": "2026-1"
+        }
+    ],
+    "EELE577": [
+        {
+            "id_ramo": "EELE577",
+            "nombre": "STRATEGIC SALES AND KEY ACCOUNT MANAGEMENT  (INGLÉS)",
+            "seccion": 1,
+            "horarios": [
+                [
+                    "JU",
+                    "F",
+                    "CÁTEDRA"
+                ]
+            ],
+            "profesor": "RODRIGO ALBERTO GUESALAGA TRAUTMANN",
+            "semestre": "2026-1"
         }
     ],
     "EELE755M": [
         {
             "id_ramo": "EELE755M",
-            "nombre": "MARKETING B2B (INGLÉS)",
+            "nombre": "MARKETING B2B",
             "seccion": 1,
             "horarios": [
                 [
                     "LU",
                     "E",
                     "CÁTEDRA"
-                ],
-                [
-                    "LU",
-                    "F",
-                    "CÁTEDRA"
                 ]
             ],
             "profesor": "JOSE MAURICIO VIVES FERNANDEZ",
-            "semestre": ""
-        }
-    ],
-    "EEL473": [
-        {
-            "id_ramo": "EEL473",
-            "nombre": "MARKETING DIGITAL (ONLINE) (INGLÉS)",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "LU",
-                    "H",
-                    "CÁTEDRA"
-                ],
-                [
-                    "LU",
-                    "",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "JOSE MAURICIO VIVES FERNANDEZ",
-            "semestre": ""
+            "semestre": "2026-1"
         }
     ],
     "EELF554": [
@@ -4528,141 +459,188 @@
                     "JU",
                     "H",
                     "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "",
-                    "CÁTEDRA"
                 ]
             ],
             "profesor": "ALFONSO CRISTIAN REYDET PINOCHET",
-            "semestre": ""
+            "semestre": "2026-1"
         }
     ],
-    "EELE566": [
+    "EELF590": [
         {
-            "id_ramo": "EELE566",
-            "nombre": "PSICOLOGÍA DEL EMPRENDIMIENTO (ONLINE)",
+            "id_ramo": "EELF590",
+            "nombre": "INVERSIONES APLICADAS",
+            "seccion": 1,
+            "horarios": [
+                [
+                    "MA",
+                    "H",
+                    "CÁTEDRA"
+                ]
+            ],
+            "profesor": "AXEL BERNHARD TIMMERMANN FABRES",
+            "semestre": "2026-1"
+        }
+    ],
+    "RIC144": [
+        {
+            "id_ramo": "RIC144",
+            "nombre": "SOCIAL ENTREPRENEURSHIP",
             "seccion": 1,
             "horarios": [
                 [
                     "LU",
                     "B",
                     "CÁTEDRA"
-                ],
+                ]
+            ],
+            "profesor": "MARCELA CAROLINA GARCIA CABELLO",
+            "semestre": "2026-1"
+        }
+    ],
+    "RIC152": [
+        {
+            "id_ramo": "RIC152",
+            "nombre": "CREATIVITY AND INNOVATION MANAGEMENT",
+            "seccion": 1,
+            "horarios": [
                 [
-                    "LU",
+                    "JU",
                     "C",
                     "CÁTEDRA"
                 ]
             ],
-            "profesor": "CARLOS ABEL POBLETE CAZENAVE",
-            "semestre": ""
+            "profesor": "GERARD JOHANNES PRINS .",
+            "semestre": "2026-1"
+        },
+        {
+            "id_ramo": "RIC152",
+            "nombre": "CREATIVITY AND INNOVATION MANAGEMENT (INGLES)",
+            "seccion": 2,
+            "horarios": [
+                [
+                    "JU",
+                    "F",
+                    "CÁTEDRA"
+                ]
+            ],
+            "profesor": "GERARD JOHANNES PRINS .",
+            "semestre": "2026-1"
         }
     ],
     "RIC166": [
         {
             "id_ramo": "RIC166",
-            "nombre": "RECYCLING & UPCYCLING (INGLÉS)",
+            "nombre": "RECYCLING & UPCYCLING",
             "seccion": 1,
             "horarios": [
                 [
                     "JU",
                     "G",
                     "CÁTEDRA"
-                ],
-                [
-                    "JU",
-                    "H",
-                    "CÁTEDRA"
                 ]
             ],
             "profesor": "PEDRO MANUEL BULNES DEL VALLE",
-            "semestre": ""
+            "semestre": "2026-1"
         }
     ],
-    "RIC144": [
+    "MEA411": [
         {
-            "id_ramo": "RIC144",
-            "nombre": "SOCIAL ENTREPRENEURSHIP (INGLÉS)",
+            "id_ramo": "MEA411",
+            "nombre": "MACROECONOMIA I",
             "seccion": 1,
             "horarios": [
                 [
                     "LU",
-                    "B",
+                    "C",
                     "CÁTEDRA"
                 ],
+                [
+                    "MA",
+                    "B",
+                    "CÁTEDRA"
+                ]
+            ],
+            "profesor": "JEAN SEPULVEDA UMANZOR",
+            "semestre": "2026-1"
+        }
+    ],
+    "MEA412": [
+        {
+            "id_ramo": "MEA412",
+            "nombre": "MICOECONOMÍA I",
+            "seccion": 1,
+            "horarios": [
                 [
                     "LU",
-                    "C",
-                    "CÁTEDRA"
-                ]
-            ],
-            "profesor": "MARCELA CAROLINA GARCIA CABELLO",
-            "semestre": ""
-        }
-    ],
-    "EELE369": [
-        {
-            "id_ramo": "EELE369",
-            "nombre": "START-UPS TECNOLOGÍCAS Y ESTRATEGIAS (ONLINE)",
-            "seccion": 1,
-            "horarios": [
-                [
-                    "MA",
-                    "H",
+                    "E",
                     "CÁTEDRA"
                 ],
                 [
                     "MA",
-                    "",
+                    "E",
                     "CÁTEDRA"
                 ]
             ],
-            "profesor": "HECTOR DANIEL SANTANDER OBRIEN",
-            "semestre": ""
+            "profesor": "DANIELA RENEE LEITCH BARRA",
+            "semestre": "2026-1"
         }
     ],
-    "EELE758": [
+    "MEA413": [
         {
-            "id_ramo": "EELE758",
-            "nombre": "SUSTENTABILIDAD EMPRESARIAL",
+            "id_ramo": "MEA413",
+            "nombre": "ECONOMETRÍA I",
             "seccion": 1,
             "horarios": [
                 [
-                    "VI",
-                    "B",
+                    "MI",
+                    "G",
+                    "CÁTEDRA"
+                ]
+            ],
+            "profesor": "MARIA FLORENCIA GABRIELLI .",
+            "semestre": "2026-1"
+        }
+    ],
+    "MEA415": [
+        {
+            "id_ramo": "MEA415",
+            "nombre": "MATEMÁTICAS APLICADAS A LA ECONOMÍA",
+            "seccion": 1,
+            "horarios": [
+                [
+                    "MI",
+                    "E",
                     "CÁTEDRA"
                 ],
                 [
-                    "VI",
+                    "JU",
                     "C",
                     "CÁTEDRA"
                 ]
             ],
-            "profesor": "TOMAS SANTA MARIA GONZALEZ",
-            "semestre": ""
+            "profesor": "MARIA FLORENCIA GABRIELLI .",
+            "semestre": "2026-1"
         }
     ],
-    "ELEE452": [
+    "MEA416": [
         {
-            "id_ramo": "ELEE452",
-            "nombre": "TEORÍA DE JUEGOS (ONLINE)",
+            "id_ramo": "MEA416",
+            "nombre": "COMUNICACIÓN EFECTIVA PARA LOS NEGOCIOS",
             "seccion": 1,
             "horarios": [
                 [
-                    "JU",
-                    "A",
+                    "MI",
+                    "E",
                     "CÁTEDRA"
                 ],
                 [
                     "JU",
-                    "B",
+                    "C",
                     "CÁTEDRA"
                 ]
             ],
-            "profesor": "CARLOS MANUEL WILLINGTON .",
-            "semestre": ""
+            "profesor": "SIN DOCENTE",
+            "semestre": "2026-1"
         }
     ]
 }
